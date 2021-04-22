@@ -1,0 +1,10 @@
+C:\Users\lrtay\OneDrive\Desktop\INFO-2830-C# Programming\Ending Balance\Ending Balance\obj\Debug\Ending Balance.csprojAssemblyReference.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2830-C# Programming\Ending Balance\Ending Balance\obj\Debug\Ending_Balance.MainForm.resources
+C:\Users\lrtay\OneDrive\Desktop\INFO-2830-C# Programming\Ending Balance\Ending Balance\obj\Debug\Ending_Balance.Properties.Resources.resources
+C:\Users\lrtay\OneDrive\Desktop\INFO-2830-C# Programming\Ending Balance\Ending Balance\obj\Debug\Ending Balance.csproj.GenerateResource.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2830-C# Programming\Ending Balance\Ending Balance\obj\Debug\Ending Balance.csproj.CoreCompileInputs.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2830-C# Programming\Ending Balance\Ending Balance\bin\Debug\Ending Balance.exe.config
+C:\Users\lrtay\OneDrive\Desktop\INFO-2830-C# Programming\Ending Balance\Ending Balance\bin\Debug\Ending Balance.exe
+C:\Users\lrtay\OneDrive\Desktop\INFO-2830-C# Programming\Ending Balance\Ending Balance\bin\Debug\Ending Balance.pdb
+C:\Users\lrtay\OneDrive\Desktop\INFO-2830-C# Programming\Ending Balance\Ending Balance\obj\Debug\Ending Balance.exe
+C:\Users\lrtay\OneDrive\Desktop\INFO-2830-C# Programming\Ending Balance\Ending Balance\obj\Debug\Ending Balance.pdb

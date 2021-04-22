@@ -1,0 +1,42 @@
+﻿@model List<Question>
+@{
+    ViewBag.Title = "FAQs";
+}
+
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-4">Frequently Asked Questions</h1>
+    </div>
+</div>
+
+<nav class="col-md-6 navbar navbar-light bg-light offset-md-3">
+    <a class="navbar-brand" asp-controller="Home" asp-action="Index">All FAQs</a>
+    <a class="navbar-brand" asp-controller="Topic" asp-action="Bootstrap">Bootstrap</a>
+    <a class="navbar-brand" asp-controller="Topic" asp-action="CSharp">C#</a>
+    <a class="navbar-brand" asp-controller="Topic" asp-action="JavaScript">JavaScript</a>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-3 list-group">
+            <a asp-controller="Category" asp-action="General" class="list-group-item list-group-item-action">General</a>
+            <a asp-controller="Category" asp-action="History" class="list-group-item list-group-item-action">History</a>
+        </div>
+
+        <table class="col-md-6 table">
+            <thead>
+            </thead>
+            <tbody>
+                @foreach (var question in Model)
+                {
+                    <tr>
+                        <td>@question.QuestionText @question.Answer<br /> @question.Topic.Name @question.Category.Name</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+

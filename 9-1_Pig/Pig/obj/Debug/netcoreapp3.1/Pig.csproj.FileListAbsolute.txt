@@ -1,0 +1,75 @@
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\appsettings.json
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.exe
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.deps.json
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.runtimeconfig.json
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.runtimeconfig.dev.json
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.dll
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.pdb
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.Views.dll
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.Views.pdb
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.csprojAssemblyReference.cache
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.AssemblyInfoInputs.cache
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.AssemblyInfo.cs
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.csproj.CoreCompileInputs.cache
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.MvcApplicationPartsAssemblyInfo.cache
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.RazorAssemblyInfo.cache
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.RazorAssemblyInfo.cs
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\staticwebassets\Pig.StaticWebAssets.Manifest.cache
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\staticwebassets\Pig.StaticWebAssets.xml
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\scopedcss\bundle\Pig.styles.css
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.TagHelpers.input.cache
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.TagHelpers.output.cache
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.RazorCoreGenerate.cache
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.RazorTargetAssemblyInfo.cache
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.RazorTargetAssemblyInfo.cs
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.Views.pdb
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.csproj.CopyComplete
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.dll
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.pdb
+E:\CCC\InformationTechnology\Spring2021\2590\Instructors\student_projects\project_solutions\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.genruntimeconfig.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.exe
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.deps.json
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.runtimeconfig.json
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.runtimeconfig.dev.json
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.dll
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.pdb
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.Views.dll
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Pig.Views.pdb
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.AssemblyInfoInputs.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.AssemblyInfo.cs
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.csproj.CoreCompileInputs.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.RazorAssemblyInfo.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.RazorAssemblyInfo.cs
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\staticwebassets\Pig.StaticWebAssets.Manifest.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\staticwebassets\Pig.StaticWebAssets.xml
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\scopedcss\bundle\Pig.styles.css
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.TagHelpers.input.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.TagHelpers.output.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.RazorCoreGenerate.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.RazorTargetAssemblyInfo.cache
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.RazorTargetAssemblyInfo.cs
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.Views.pdb
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.csproj.CopyComplete
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.dll
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.pdb
+C:\Users\lrtay\OneDrive\Desktop\INFO-2590-Developer Capstone\9-1_Pig\Pig\obj\Debug\netcoreapp3.1\Pig.genruntimeconfig.cache

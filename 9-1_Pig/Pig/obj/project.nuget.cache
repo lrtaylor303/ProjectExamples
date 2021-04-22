@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qyxi1tdMxzAT+1kqhMgs+nlTRFI5Lmh0xckmTu6NtWNEMsheTrf99ebePAtetH0Vtqhf73BIBZ5TB8GxVU5hng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lrtay\\OneDrive\\Desktop\\9-1_Pig\\Pig\\Pig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lrtay\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.0\\microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
+    "C:\\Users\\lrtay\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.0.nupkg.sha512",
+    "C:\\Users\\lrtay\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\lrtay\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\lrtay\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
